@@ -4,7 +4,7 @@ My name is Angelina Koroleva. I was born on August 7th, 2000.
 I earned my bachelor's degree in Radiophysics in 2022 and master's degree in Information Security in 2024.
 Now, I'm an engineer of virtualization in IT-company called "Innostage". I have been working there since 2022.
 
-![innostage](innostage.png)
+
 
 ## Stack of technologies
 
