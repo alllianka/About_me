@@ -16,7 +16,7 @@ Russian (native), Tatar (native), English (B1), Italian (A1)
 
 ### Hobbies
 
-In my free time, I like to swim, watch series, paint, and read literature.
+In my free time, I like to swim, watch series and read literature.
 
 ### My photo
 
